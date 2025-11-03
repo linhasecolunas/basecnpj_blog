@@ -1,13 +1,13 @@
 # GitHub Actions Workflow para Hugo
 # Faz deploy automático para GitHub Pages a cada push
 
-name: Deploy Linhas e Colunas Blog
+name: Deploy Hugo Blog
 
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main  # Ou master, se for seu branch principal
+  workflow_dispatch:  # Permite trigger manual
 
 # Define permissões necessárias
 permissions:
@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0
+      HUGO_VERSION: 0.152.2
     steps:
       - name: Install Hugo CLI
         run: |
