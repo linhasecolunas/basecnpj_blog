@@ -1,8 +1,6 @@
 # GitHub Actions Workflow para Hugo
 # Faz deploy automático para GitHub Pages a cada push
-
 name: Deploy LC Blog
-
 on:
   push:
     branches:
@@ -60,7 +58,8 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
