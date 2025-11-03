@@ -45,7 +45,7 @@ params:
   
   footer:
     displayCopyright: true
-    displayPoweredBy: false
+    displayPoweredBy: true
 
 
 services:
