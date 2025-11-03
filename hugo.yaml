@@ -15,8 +15,6 @@ menu:
     - name: Ir para o site ↗
       url: "https://linhasecolunas.com.br"
       weight: 1
-      params:
-        target: _self
     - name: ""
       weight: 2
       params:
