@@ -23,7 +23,18 @@ menu:
       weight: 3
       params:
         type: search
+  sidebar:
+    - name: "Guias e Tutoriais"
+      params:
+        type: separator
+      weight: 1
+    - name: "Portal de Downloads"
+      pageRef: "/como-usar-o-portal-base-cnpj"
+      weight: 2
+
 params:
+  page:
+    width: wide
   navbar:
     displayTitle: true
     displayLogo: true

@@ -72,10 +72,23 @@ nav.hextra-nav-container > *,
   outline: none !important;
 }
 
-.hextra-sidebar-container {
-  background-color: var(--hextra-bg);
-  color: var(--hextra-fg);
+html:not(.dark) .hextra-search-title {
+  background-color: transparent !important;
+  color: var(--lc-primary-dark) !important; /* Cor escura no fundo claro */
+  font-weight: 700 !important;
+  padding: 0 2px !important;
+  border-radius: 2px !important;
 }
+
+/* Termo Buscado (ex: "Como"): Fundo amarelo "marca-texto" */
+html:not(.dark) .hextra-search-match {
+  background-color: #FFF59D !important; /* Amarelo marca-texto */
+  color: #333 !important; /* Texto escuro para legibilidade */
+  font-weight: 700 !important;
+  padding: 0 2px !important;
+  border-radius: 2px !important;
+}
+
 
 .content {
   color: var(--hextra-fg);
