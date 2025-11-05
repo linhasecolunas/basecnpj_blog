@@ -52,6 +52,3 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
-services:
-  googleAnalytics:
-    ID: G-WGS5QXH22E
