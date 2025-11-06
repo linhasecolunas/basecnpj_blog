@@ -1,6 +1,6 @@
 ---
 title: "Guia Rápido: Como Usar o Portal de Downloads da Base CNPJ"
-slug: "2025/11/como-usar-o-portal-base-cnpj"
+slug: "como-usar-o-portal-base-cnpj"
 date: 2025-11-04T09:30:00-03:00
 draft: false
 description: "Um passo a passo completo para encontrar, filtrar e baixar seus leads B2B no portal de downloads da Base CNPJ."
