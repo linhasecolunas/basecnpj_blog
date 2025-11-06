@@ -1,9 +1,9 @@
 ---
-title: "Raio-X 2025: 3.7 Milhões de Novas Empresas este ano no Brasil"
-slug: "raio-x-brasil-2025-outubro"
+title: "Raio-X 09/2025: 3.7 Milhões de Novas Empresas no Brasil"
+slug: "2025-09-raio-x-brasil"
 date: 2025-11-05T20:30:00-03:00
 draft: false
-description: "Uma análise completa dos 3.7 milhões de CNPJs abertos em 2025. Veja os estados líderes, os setores mais procurados e a divisão entre Matriz vs. Filial."
+description: "Uma análise completa dos 3.7 milhões de CNPJs abertos até setembro de 2025. Veja os estados líderes, os setores mais procurados e a divisão entre Matriz vs. Filial."
 tags: ["Análise de Mercado", "Abertura de Empresas", "CNAE", "Empreendedorismo", "Base CNPJ", "MEI", "Prospecção"]
 image: "mapa_empresas_2025.png"
 sidebar:
