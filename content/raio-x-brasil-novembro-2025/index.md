@@ -1,7 +1,7 @@
 ---
 title: "Raio-X 11/2025: 4.1 Milhões de Novas Empresas no Brasil"
 slug: "2025-11-raio-x-brasil"
-date: 2025-11-13T20:30:00-03:00
+date: 2025-11-13T10:30:00-03:00
 draft: false
 description: "Uma análise completa dos 4.1 milhões de CNPJs abertos até novembro de 2025. Veja os setores mais procurados, a divisão entre Matriz vs. Filial e o perfil do novo empreendedor brasileiro."
 tags: ["Análise de Mercado", "Abertura de Empresas", "CNAE", "Empreendedorismo", "Base CNPJ", "MEI", "Prospecção"]
