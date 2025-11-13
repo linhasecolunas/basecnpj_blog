@@ -18,6 +18,26 @@ Mas quem são eles e em que setores atuam?
 
 Analisamos os dados da **Base CNPJ** para criar um panorama completo do novo cenário empresarial do país.
 
+### Onde estão as Novas Empresas? O Top 5 dos Estados
+
+O eixo Sul-Sudeste continua a dominar a criação de novos negócios, com São Paulo abrindo quase o triplo de empresas do que o segundo colocado, Minas Gerais.
+
+1.  **SP:** 1.203.635
+2.  **MG:** 428.900
+3.  **RJ:** 332.831
+4.  **PR:** 289.844
+5.  **RS:** 243.874
+
+São Paulo sozinho concentra **29,5%** de todas as novas empresas do país, reforçando sua posição como polo empreendedor nacional. Os cinco estados do ranking respondem por **60%** de todas as aberturas de 2025.
+
+> **🗺️ Quer ver esses números em um mapa?**
+>
+> Para uma análise mais visual, explore nosso **[Mapa Interativo de Empresas](https://linhasecolunas.com.br/mapa-de-empresas)**.
+>
+> ![Mapa de calor de empresas abertas no Brasil em 2025](mapa_empresas_2025.png)
+>
+> Lá você pode navegar do Brasil até o seu município, ver o *mapa de calor* da concentração de empresas e filtrar entre os dados "Geral" ou apenas de "2025", vendo a divisão exata por MEI, Simples e Demais ao passar o mouse.
+
 ### O quê? Os Setores Mais Procurados em 2025
 
 A tendência de digitalização e serviços de baixo custo inicial segue firme. O setor de "Promoção de Vendas" — um CNAE "guarda-chuva" para afiliados digitais, gestores de tráfego e promotores — continua liderando com ampla margem.
@@ -83,13 +103,21 @@ Em apenas dois meses, o cenário empresarial brasileiro cresceu significativamen
 | Métrica | Outubro/2025 | Novembro/2025 | Crescimento |
 |---------|---------------|---------------|-------------|
 | **Total de Empresas Ativas** | 3.752.811 | 4.073.882 | +8,6% |
+| **São Paulo** | 1.106.638 | 1.203.635 | +8,8% |
+| **Minas Gerais** | 396.467 | 428.900 | +8,2% |
+| **Rio de Janeiro** | 304.757 | 332.831 | +9,2% |
+| **Paraná** | 267.473 | 289.844 | +8,4% |
+| **Rio Grande do Sul** | 225.146 | 243.874 | +8,3% |
 | **MEI** | 2.707.156 (72,1%) | 2.927.572 (71,9%) | +8,1% |
 | **SIMPLES** | 687.951 (18,3%) | 766.073 (18,8%) | +11,4% |
 | **DEMAIS** | 357.704 (9,5%) | 380.237 (9,3%) | +6,3% |
 | **Matrizes** | 3.652.104 (97,3%) | 3.962.987 (97,3%) | +8,5% |
 | **Filiais** | 100.707 (2,7%) | 110.895 (2,7%) | +10,1% |
 
-**Destaque:** As filiais cresceram proporcionalmente mais (+10,1%) do que as matrizes (+8,5%), indicando que empresas consolidadas estão acelerando sua expansão no final do ano.
+**Destaques:** 
+- Rio de Janeiro teve o maior crescimento entre os top 5 (+9,2%)
+- As filiais cresceram proporcionalmente mais (+10,1%) do que as matrizes (+8,5%), indicando que empresas consolidadas estão acelerando sua expansão no final do ano
+- O Simples Nacional foi o regime que mais cresceu (+11,4%), sugerindo que mais empreendedores estão optando por estruturas além do MEI
 
 ---
 
