@@ -1,5 +1,5 @@
 ---
-title: "Raio-X 09/2025: 3.7 Milhões de Novas Empresas no Brasil"
+title: "Raio-X 10/2025: 3.7 Milhões de Novas Empresas no Brasil"
 slug: "2025-09-raio-x-brasil"
 date: 2025-11-05T20:30:00-03:00
 draft: false
