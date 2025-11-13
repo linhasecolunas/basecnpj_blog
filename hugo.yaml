@@ -3,15 +3,18 @@ canonifyURLs: true
 relativeURLs: false
 defaultContentLanguage: pt-br
 title: Blog | Base CNPJ
+
 module:
   imports:
     - path: github.com/imfing/hextra
+
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
     noClasses: false
+
 menu:
   main:
     - name: Tutoriais
@@ -49,3 +52,8 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: true
+  assets:
+    disableFingerprinting: true
+  hextra:
+    security:
+      enableSRI: false
