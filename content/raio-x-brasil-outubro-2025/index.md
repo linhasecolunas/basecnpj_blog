@@ -85,7 +85,7 @@ Filtre por UF, município, regime tributário ou qualquer um dos 1.300 CNAEs.
 
 <br>
 <p style="text-align: center;">
-    <a href="https://linhasecolunas.com.br/base-cnpj" class="btn btn-primary btn-lg" role="button">
+    <a href="https://basecnpj.linhasecolunas.com.br/" class="btn btn-primary btn-lg" role="button">
         ADQUIRIR ACESSO AGORA
     </a>
 </p>
